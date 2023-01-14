@@ -1,0 +1,28 @@
+p{
+    color: red;
+    font-size: larger;
+}
+
+.small{
+    font-size: smaller;
+}
+
+.large{
+    font-size: larger;
+}
+
+/* #first-button{
+    color: red;
+    background-color: aqua;
+}
+
+#intro{
+    background-color: bisque;
+    color: black;
+} */
+
+button:hover{
+    color: aqua;
+}
+
+

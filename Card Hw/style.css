@@ -1,0 +1,59 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.box{
+    width: 400px;
+    height: 400px;
+    flex-wrap: wrap;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px gray;
+    margin: 2%;
+}
+
+.img1{
+    width: 400px;
+    height:250px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.text{
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+.price1{
+    color: rgb(73, 133, 244);
+    font-size: large;
+}
+
+.price2{
+    color:grey;
+    font-size: large;
+}
+
+.line{
+    color:gray;
+    opacity: 50%;
+    width:278px;
+    margin-left: 0%;
+    height:0;
+    
+}
+
+
+.button{
+    color:white;
+    background-color: aquamarine;
+    font-family: 'Rubik', sans-serif;
+    display: inline-block;
+    font-size: medium;
+    border: 1px aquamarine;
+    border-radius: 5px;
+    padding: 4px;
+}
