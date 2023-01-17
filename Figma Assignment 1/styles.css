@@ -1,0 +1,117 @@
+img{
+position: absolute;
+width: 98px;
+height: 82px;
+left: 117px;
+top: 53px;
+}
+
+.first{
+    position: absolute;
+width: 51px;
+height: 20px;
+left: 485px;
+top: 74px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+color: #4E5DC0;
+}
+
+.second{
+    position: absolute;
+    width: 79px;
+    height: 20px;
+    left: 608px;
+    top: 74px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    
+    
+    color: #777C85;
+    
+}
+
+.third{
+    position: absolute;
+width: 70px;
+height: 20px;
+left: 754px;
+top: 74px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+/* Neutral 1 */
+
+color: #777C85;
+
+}
+
+.fourth{
+    position: absolute;
+width: 68px;
+height: 20px;
+left: 898px;
+top: 74px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+/* Neutral 1 */
+
+color: #777C85;
+}
+
+.button{
+    position: absolute;
+width: 165px;
+height: 54px;
+left: 1205px;
+top: 54px;
+
+background: #4E5DC0;
+border-radius: 5px;
+}
+
+.button p{
+/* position: absolute;
+width: 109px;
+height: 24px;  */
+justify-content: center;
+align-items: center;
+left: 1233px;
+top: 68px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150%*/
+
+
+color: #FFFFFF;
+
+}
