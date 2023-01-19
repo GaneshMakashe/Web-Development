@@ -1,0 +1,45 @@
+*{
+    margin: 20px;
+    padding: auto;
+
+}
+
+.text{
+    text-decoration: underline;
+}
+
+.sidetext{
+    font-weight: 10;
+}
+
+.header{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 800px 300px;
+    grid-template-rows: 1fr;
+}
+
+.box{
+    border: 1px solid black;
+}
+
+.archive{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    background-color:white;
+    border-radius:30px;
+}
+
+.about{
+    background-color: rgb(169, 224, 238);
+    margin: 2px 2px;
+    padding: 2px;
+}

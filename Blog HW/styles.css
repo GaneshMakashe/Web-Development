@@ -1,0 +1,57 @@
+*{
+    margin:20px;
+    padding: auto;
+
+}
+
+.container{
+    margin-left: 0px;
+}
+
+.text{
+    text-decoration: underline;
+}
+
+.sidetext{
+    font-weight: 10;
+    margin-left: 130px;
+}
+
+
+
+.header{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.card{
+    border: 5px solid rgb(212, 204, 204);
+    width: 600px;;
+    height:300px;
+    
+    
+    
+}
+
+.box{
+    display: grid;
+    grid-template-columns:500px 500px;
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 20px;
+    justify-content: space-evenly;
+    
+}
+
+a{
+    color: skyblue;
+    font-size: large;
+}
+
+.card small{
+    line-height: 1px;
+}
+
+#g{
+    color: green;
+}

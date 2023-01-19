@@ -1,0 +1,38 @@
+:root{
+    --dark-red:#981a2c
+}
+
+
+
+.container{
+    border: 1px solid brown;
+    background-color: green;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    /* background-color: var(--dark-red); */
+    
+}
+
+.box{
+    /* border: 2px solid green;
+    background-color: aqua;
+    --dark-red:#981a2c
+    color:var(--dark-red); */
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    border: 2px solid orange;
+    background-color: aqua;
+
+    transition: transform 3s ease-in;
+    /* transition-property: all; */
+    /* transition-delay: 1s; */
+}
+
+.box:hover{
+    /* background-color: brown;
+    transform: rotate(360deg); */
+    transform: translateX(500px);
+}
+
